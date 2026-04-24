@@ -1,0 +1,16 @@
+Top Product Sales:
+('Laptop', 55000)
+('Phone', 60000)
+('Shoes', 7500)
+('Mouse', 1600)
+
+Region Revenue:
+('South', 68600)
+('North', 92000)
+('West', 11800)
+('East', 2800)
+
+Repeat Customers:
+('C101', 3)
+('C102', 2)
+('C103', 2)
